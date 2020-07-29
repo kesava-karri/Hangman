@@ -17,9 +17,8 @@ It uses some `helper_modules/` for picking, guessing, evaluate and search-refine
 * `accuracy_scorer.py` -- A code file which uses `hangman_driver.py` and runs on all the words in the dictionary `words.txt`. Metrics are displayed below this section <br>
 
 ## How to run
-1. pip install -r requirements.txt
-2. python hangman_driver.py
-3. python accuracy_scorer.py
+1. python hangman_driver.py
+2. python accuracy_scorer.py
 
 ## Metrics
 ```
